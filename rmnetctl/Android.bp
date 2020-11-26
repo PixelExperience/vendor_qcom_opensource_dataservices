@@ -1,3 +1,6 @@
+soong_namespace {
+}
+
 cc_library_headers {
     name: "librmnetctl_headers",
     export_include_dirs: ["inc"],
